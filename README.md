@@ -8,17 +8,12 @@ Is the length of stay a contributing factor?
 Is gender related to a higher risk of mental illness?
 Is religion related to better indicators/metrics?
 
-## 1. Is the length of stay a contributing factor?
-
-The data shows that the longer a student stays, the higher their score on the PHQ-9 depression test.
-The score for social connectedness (SCS test) decreases as the student spends more years at the university.
-Acculturative stress (ASISS test) also decreases with increasing years of stay.
 
 # Answering the questions
 ## 1. Is the length o the stay a contributing factor?
-- The numbers shows us that quanto mais anos o estudante está, maior é o score dele no teste PHQ (depressão)..
-- score of social connectedness (SCS test) vai caindo conforme o aluno vai passando mais anos na universidade.
-- O acculturative stress (ASISS test) é menor conforme os anos vão passando também. 
+- The numbers show us that the more years the student spends, the higher their score on the PHQ test (depression).
+- The score of social connectedness (SCS test) decreases as the student spends more years at the university.
+- Acculturative stress (ASISS test) also decreases over the years.
 
 ![image](https://github.com/user-attachments/assets/eb79fed4-b8c6-43e9-ac4a-d3c7db46677d)
 
